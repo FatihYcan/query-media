@@ -23,3 +23,6 @@ Duyarlı tasarım için medya sorgularının kullanımını gösteren basit bir 
 ## Teknolojiler
 - HTML
 - CSS
+
+![cw](./img/1.jpg)
+![cw](./img/2.jpg)
