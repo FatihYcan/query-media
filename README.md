@@ -25,3 +25,5 @@ Duyarlı tasarım için medya sorgularının kullanımını gösteren basit bir 
 - CSS
 
 ![cw](./img/3.jpg)
+
+[Canlı Demo'yu Deneyin](https://fatihycan.github.io/query-media/)
