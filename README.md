@@ -24,5 +24,4 @@ Duyarlı tasarım için medya sorgularının kullanımını gösteren basit bir 
 - HTML
 - CSS
 
-![cw](./img/1.jpg)
-![cw](./img/2.jpg)
+![cw](./img/3.jpg)
