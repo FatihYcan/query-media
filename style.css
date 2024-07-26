@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+
 @media only screen and (min-width: 1400px) { 
   /* 1400 dahil ve üzeri */
   body {
