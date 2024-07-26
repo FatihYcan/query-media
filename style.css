@@ -4,9 +4,10 @@
   box-sizing: border-box;
 }
 
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 1400px) { 
+  /* 1400 dahil ve üzeri */
   body {
-    background-color: rgba(255, 102, 0, 0.8);
+    background-color: orange;
   }
 
   ul {
@@ -31,7 +32,36 @@
   }
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 1399px) {
+  /* 1200 dahil 1400 arası */
+  body {
+    background-color: chartreuse;
+  }
+
+  ul {
+    text-align: center;
+    margin-top: 25px;
+  }
+
+  li {
+    display: inline;
+    padding: 10px;
+    font-size: 1.5rem;
+  }
+
+  .images {
+    background-image: url("https://picsum.photos/id/1058/600/400");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    width: 40%;
+    height: 300px;
+    margin-top: 15px;
+  }
+}
+
+@media only screen and (max-width: 1199px) {
+  /* 992 dahil 1200 arası */
   body {
     background-color: aqua;
   }
@@ -58,7 +88,36 @@
   }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 991px) {
+  /* 768 dahil 992 arası */
+  body {
+    background-color: yellow;
+  }
+
+  ul {
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  li {
+    display: inline;
+    padding: 10px;
+    font-size: 1.5rem;
+  }
+
+  .images {
+    background-image: url("https://picsum.photos/id/237/600/400");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    width: 40%;
+    height: 300px;
+    margin-top: 15px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  /* 576 dahil 768 arası */
   body {
     background-color: purple;
   }
@@ -85,9 +144,10 @@
   }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 575px) {
+  /* 575 ve aşağısı */
   body {
-    background-color: green;
+    background-color: grey;
   }
 
   ul {
