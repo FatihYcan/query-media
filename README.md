@@ -8,8 +8,8 @@ A simple web application to demonstrate the use of media queries for responsive 
 - Different styles for various screen sizes
 
 ## Technologies
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 # Medya Sorgulama Web Uygulaması
 
@@ -21,8 +21,8 @@ Duyarlı tasarım için medya sorgularının kullanımını gösteren basit bir 
 - Çeşitli ekran boyutları için farklı stiller
 
 ## Teknolojiler
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 https://github.com/user-attachments/assets/52be081b-c718-4538-839f-001f2c283002
 
